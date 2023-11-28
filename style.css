@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-image: url('Images/Present\ Wrapping.jpg');
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: rgb(0, 0, 0);
+    background-color: darkgrey;
+    font-weight: bold;
+    padding: 10px 15px;
+    margin: 0 5px;
+    display: inline-block; /* Set the display property to inline-block */
+}
+
+nav a:hover {
+    background-color: #e723cd;
+}
