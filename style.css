@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    background-color:blanchedalmond
 }
 
  .wrap{
@@ -31,5 +32,9 @@ img{
 
 footer{
     background-color:hotpink;
+
+}
+.warning{
+    color:red;
 
 }
